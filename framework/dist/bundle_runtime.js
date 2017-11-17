@@ -104,18 +104,18 @@ __webpack_require__(21);
 __webpack_require__(22);
 __webpack_require__(23);
 __webpack_require__(24);
-__webpack_require__(31);
 __webpack_require__(25);
 __webpack_require__(26);
-__webpack_require__(32);
-__webpack_require__(33);
-__webpack_require__(34);
-__webpack_require__(35);
-
-// *** lib
 __webpack_require__(27);
 __webpack_require__(28);
+__webpack_require__(29);
 __webpack_require__(30);
+__webpack_require__(31);
+
+// *** lib
+__webpack_require__(32);
+__webpack_require__(33);
+__webpack_require__(35);
 /*import init from './initRuntime'
 import equalize from './equalize'
 import orbitUtilities from '../components/orbit/orbit'*/
@@ -332,18 +332,58 @@ $(document).ready(function () {
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
+// removed by extract-text-webpack-plugin
 
-
-window.$sledge = {};
 
 /***/ }),
 /* 28 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
+// removed by extract-text-webpack-plugin
 
 
-var _utilities = __webpack_require__(29);
+/***/ }),
+/* 29 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+// removed by extract-text-webpack-plugin
+
+
+/***/ }),
+/* 30 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+// removed by extract-text-webpack-plugin
+
+
+/***/ }),
+/* 31 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+// removed by extract-text-webpack-plugin
+
+
+/***/ }),
+/* 32 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+window.$sledge = {};
+
+/***/ }),
+/* 33 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+var _utilities = __webpack_require__(34);
 
 // global
 window.$sledge.equalizerRefresh = function (viewRef) {
@@ -417,7 +457,7 @@ window.addEventListener('resize', function () {
 });
 
 /***/ }),
-/* 29 */
+/* 34 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -478,7 +518,7 @@ function addMediaForExport(media) {
 }
 
 /***/ }),
-/* 30 */
+/* 35 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -501,46 +541,6 @@ window.$sledge.refreshOrbit = function () {
     return window.Foundation.reInit('orbit');
   });
 };
-
-/***/ }),
-/* 31 */
-/***/ (function(module, exports, __webpack_require__) {
-
-"use strict";
-// removed by extract-text-webpack-plugin
-
-
-/***/ }),
-/* 32 */
-/***/ (function(module, exports, __webpack_require__) {
-
-"use strict";
-// removed by extract-text-webpack-plugin
-
-
-/***/ }),
-/* 33 */
-/***/ (function(module, exports, __webpack_require__) {
-
-"use strict";
-// removed by extract-text-webpack-plugin
-
-
-/***/ }),
-/* 34 */
-/***/ (function(module, exports, __webpack_require__) {
-
-"use strict";
-// removed by extract-text-webpack-plugin
-
-
-/***/ }),
-/* 35 */
-/***/ (function(module, exports, __webpack_require__) {
-
-"use strict";
-// removed by extract-text-webpack-plugin
-
 
 /***/ })
 /******/ ]);
