@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+        <url>
+        <loc>http://ouistee.com/index.html</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://ouistee.com/en/index.html" />
+<xhtml:link rel="alternate" hreflang="fr" href="http://ouistee.com/fr/index.html" />
+</url>
+<url>
+              <loc>http://ouistee.com/en/index.html</loc>
+              <priority>1</priority>
+<xhtml:link rel="alternate" hreflang="en" href="http://ouistee.com/en/index.html" />
+<xhtml:link rel="alternate" hreflang="fr" href="http://ouistee.com/fr/index.html" />
+<xhtml:link rel="alternate" hreflang="x-default" href="http://ouistee.com/index.html" />
+</url>
+<url>
+              <loc>http://ouistee.com/fr/index.html</loc>
+              <priority>1</priority>
+<xhtml:link rel="alternate" hreflang="en" href="http://ouistee.com/en/index.html" />
+<xhtml:link rel="alternate" hreflang="fr" href="http://ouistee.com/fr/index.html" />
+<xhtml:link rel="alternate" hreflang="x-default" href="http://ouistee.com/index.html" />
+</url>
+<url>
+              <loc>http://ouistee.com/en/Terms.html</loc>
+              <priority>0.8</priority>
+<xhtml:link rel="alternate" hreflang="en" href="http://ouistee.com/en/Terms.html" />
+<xhtml:link rel="alternate" hreflang="fr" href="http://ouistee.com/fr/Terms.html" />
+</url>
+<url>
+              <loc>http://ouistee.com/fr/Terms.html</loc>
+              <priority>0.8</priority>
+<xhtml:link rel="alternate" hreflang="en" href="http://ouistee.com/en/Terms.html" />
+<xhtml:link rel="alternate" hreflang="fr" href="http://ouistee.com/fr/Terms.html" />
+</url>
+<url>
+              <loc>http://ouistee.com/en/littleClock.html</loc>
+              <priority>0.8</priority>
+<xhtml:link rel="alternate" hreflang="en" href="http://ouistee.com/en/littleClock.html" />
+<xhtml:link rel="alternate" hreflang="fr" href="http://ouistee.com/fr/littleClock.html" />
+</url>
+<url>
+              <loc>http://ouistee.com/fr/littleClock.html</loc>
+              <priority>0.8</priority>
+<xhtml:link rel="alternate" hreflang="en" href="http://ouistee.com/en/littleClock.html" />
+<xhtml:link rel="alternate" hreflang="fr" href="http://ouistee.com/fr/littleClock.html" />
+</url>
+<url>
+              <loc>http://ouistee.com/en/features.html</loc>
+              <priority>0.8</priority>
+<xhtml:link rel="alternate" hreflang="en" href="http://ouistee.com/en/features.html" />
+<xhtml:link rel="alternate" hreflang="fr" href="http://ouistee.com/fr/features.html" />
+</url>
+<url>
+              <loc>http://ouistee.com/fr/features.html</loc>
+              <priority>0.8</priority>
+<xhtml:link rel="alternate" hreflang="en" href="http://ouistee.com/en/features.html" />
+<xhtml:link rel="alternate" hreflang="fr" href="http://ouistee.com/fr/features.html" />
+</url>
+<url>
+              <loc>http://ouistee.com/en/doc_sync.html</loc>
+              <priority>0.8</priority>
+<xhtml:link rel="alternate" hreflang="en" href="http://ouistee.com/en/doc_sync.html" />
+<xhtml:link rel="alternate" hreflang="fr" href="http://ouistee.com/fr/doc_sync.html" />
+</url>
+<url>
+              <loc>http://ouistee.com/fr/doc_sync.html</loc>
+              <priority>0.8</priority>
+<xhtml:link rel="alternate" hreflang="en" href="http://ouistee.com/en/doc_sync.html" />
+<xhtml:link rel="alternate" hreflang="fr" href="http://ouistee.com/fr/doc_sync.html" />
+</url>
+<url>
+              <loc>http://ouistee.com/en/doc_structure.html</loc>
+              <priority>0.8</priority>
+<xhtml:link rel="alternate" hreflang="en" href="http://ouistee.com/en/doc_structure.html" />
+<xhtml:link rel="alternate" hreflang="fr" href="http://ouistee.com/fr/doc_structure.html" />
+</url>
+<url>
+              <loc>http://ouistee.com/fr/doc_structure.html</loc>
+              <priority>0.8</priority>
+<xhtml:link rel="alternate" hreflang="en" href="http://ouistee.com/en/doc_structure.html" />
+<xhtml:link rel="alternate" hreflang="fr" href="http://ouistee.com/fr/doc_structure.html" />
+</url>
+<url>
+              <loc>http://ouistee.com/en/doc_search.html</loc>
+              <priority>0.8</priority>
+<xhtml:link rel="alternate" hreflang="en" href="http://ouistee.com/en/doc_search.html" />
+<xhtml:link rel="alternate" hreflang="fr" href="http://ouistee.com/fr/doc_search.html" />
+</url>
+<url>
+              <loc>http://ouistee.com/fr/doc_search.html</loc>
+              <priority>0.8</priority>
+<xhtml:link rel="alternate" hreflang="en" href="http://ouistee.com/en/doc_search.html" />
+<xhtml:link rel="alternate" hreflang="fr" href="http://ouistee.com/fr/doc_search.html" />
+</url>
+<url>
+              <loc>http://ouistee.com/en/doc_open_data_mode.html</loc>
+              <priority>0.8</priority>
+<xhtml:link rel="alternate" hreflang="en" href="http://ouistee.com/en/doc_open_data_mode.html" />
+<xhtml:link rel="alternate" hreflang="fr" href="http://ouistee.com/fr/doc_open_data_mode.html" />
+</url>
+<url>
+              <loc>http://ouistee.com/fr/doc_open_data_mode.html</loc>
+              <priority>0.8</priority>
+<xhtml:link rel="alternate" hreflang="en" href="http://ouistee.com/en/doc_open_data_mode.html" />
+<xhtml:link rel="alternate" hreflang="fr" href="http://ouistee.com/fr/doc_open_data_mode.html" />
+</url>
+<url>
+              <loc>http://ouistee.com/en/doc_getting_started.html</loc>
+              <priority>0.8</priority>
+<xhtml:link rel="alternate" hreflang="en" href="http://ouistee.com/en/doc_getting_started.html" />
+<xhtml:link rel="alternate" hreflang="fr" href="http://ouistee.com/fr/doc_getting_started.html" />
+</url>
+<url>
+              <loc>http://ouistee.com/fr/doc_getting_started.html</loc>
+              <priority>0.8</priority>
+<xhtml:link rel="alternate" hreflang="en" href="http://ouistee.com/en/doc_getting_started.html" />
+<xhtml:link rel="alternate" hreflang="fr" href="http://ouistee.com/fr/doc_getting_started.html" />
+</url>
+<url>
+              <loc>http://ouistee.com/en/doc_export_pdf.html</loc>
+              <priority>0.8</priority>
+<xhtml:link rel="alternate" hreflang="en" href="http://ouistee.com/en/doc_export_pdf.html" />
+<xhtml:link rel="alternate" hreflang="fr" href="http://ouistee.com/fr/doc_export_pdf.html" />
+</url>
+<url>
+              <loc>http://ouistee.com/fr/doc_export_pdf.html</loc>
+              <priority>0.8</priority>
+<xhtml:link rel="alternate" hreflang="en" href="http://ouistee.com/en/doc_export_pdf.html" />
+<xhtml:link rel="alternate" hreflang="fr" href="http://ouistee.com/fr/doc_export_pdf.html" />
+</url>
+<url>
+              <loc>http://ouistee.com/en/doc_export_csv_json.html</loc>
+              <priority>0.8</priority>
+<xhtml:link rel="alternate" hreflang="en" href="http://ouistee.com/en/doc_export_csv_json.html" />
+<xhtml:link rel="alternate" hreflang="fr" href="http://ouistee.com/fr/doc_export_csv_json.html" />
+</url>
+<url>
+              <loc>http://ouistee.com/fr/doc_export_csv_json.html</loc>
+              <priority>0.8</priority>
+<xhtml:link rel="alternate" hreflang="en" href="http://ouistee.com/en/doc_export_csv_json.html" />
+<xhtml:link rel="alternate" hreflang="fr" href="http://ouistee.com/fr/doc_export_csv_json.html" />
+</url>
+<url>
+              <loc>http://ouistee.com/en/doc_elements.html</loc>
+              <priority>0.8</priority>
+<xhtml:link rel="alternate" hreflang="en" href="http://ouistee.com/en/doc_elements.html" />
+<xhtml:link rel="alternate" hreflang="fr" href="http://ouistee.com/fr/doc_elements.html" />
+</url>
+<url>
+              <loc>http://ouistee.com/fr/doc_elements.html</loc>
+              <priority>0.8</priority>
+<xhtml:link rel="alternate" hreflang="en" href="http://ouistee.com/en/doc_elements.html" />
+<xhtml:link rel="alternate" hreflang="fr" href="http://ouistee.com/fr/doc_elements.html" />
+</url>
+<url>
+              <loc>http://ouistee.com/en/doc_element_photo.html</loc>
+              <priority>0.8</priority>
+<xhtml:link rel="alternate" hreflang="en" href="http://ouistee.com/en/doc_element_photo.html" />
+<xhtml:link rel="alternate" hreflang="fr" href="http://ouistee.com/fr/doc_element_photo.html" />
+</url>
+<url>
+              <loc>http://ouistee.com/fr/doc_element_photo.html</loc>
+              <priority>0.8</priority>
+<xhtml:link rel="alternate" hreflang="en" href="http://ouistee.com/en/doc_element_photo.html" />
+<xhtml:link rel="alternate" hreflang="fr" href="http://ouistee.com/fr/doc_element_photo.html" />
+</url>
+<url>
+              <loc>http://ouistee.com/en/doc_element_link.html</loc>
+              <priority>0.8</priority>
+<xhtml:link rel="alternate" hreflang="en" href="http://ouistee.com/en/doc_element_link.html" />
+<xhtml:link rel="alternate" hreflang="fr" href="http://ouistee.com/fr/doc_element_link.html" />
+</url>
+<url>
+              <loc>http://ouistee.com/fr/doc_element_link.html</loc>
+              <priority>0.8</priority>
+<xhtml:link rel="alternate" hreflang="en" href="http://ouistee.com/en/doc_element_link.html" />
+<xhtml:link rel="alternate" hreflang="fr" href="http://ouistee.com/fr/doc_element_link.html" />
+</url>
+<url>
+              <loc>http://ouistee.com/en/doc_element_attachment.html</loc>
+              <priority>0.8</priority>
+<xhtml:link rel="alternate" hreflang="en" href="http://ouistee.com/en/doc_element_attachment.html" />
+<xhtml:link rel="alternate" hreflang="fr" href="http://ouistee.com/fr/doc_element_attachment.html" />
+</url>
+<url>
+              <loc>http://ouistee.com/fr/doc_element_attachment.html</loc>
+              <priority>0.8</priority>
+<xhtml:link rel="alternate" hreflang="en" href="http://ouistee.com/en/doc_element_attachment.html" />
+<xhtml:link rel="alternate" hreflang="fr" href="http://ouistee.com/fr/doc_element_attachment.html" />
+</url>
+<url>
+              <loc>http://ouistee.com/en/doc_csv_import.html</loc>
+              <priority>0.8</priority>
+<xhtml:link rel="alternate" hreflang="en" href="http://ouistee.com/en/doc_csv_import.html" />
+<xhtml:link rel="alternate" hreflang="fr" href="http://ouistee.com/fr/doc_csv_import.html" />
+</url>
+<url>
+              <loc>http://ouistee.com/fr/doc_csv_import.html</loc>
+              <priority>0.8</priority>
+<xhtml:link rel="alternate" hreflang="en" href="http://ouistee.com/en/doc_csv_import.html" />
+<xhtml:link rel="alternate" hreflang="fr" href="http://ouistee.com/fr/doc_csv_import.html" />
+</url>
+<url>
+              <loc>http://ouistee.com/en/doc_categories.html</loc>
+              <priority>0.8</priority>
+<xhtml:link rel="alternate" hreflang="en" href="http://ouistee.com/en/doc_categories.html" />
+<xhtml:link rel="alternate" hreflang="fr" href="http://ouistee.com/fr/doc_categories.html" />
+</url>
+<url>
+              <loc>http://ouistee.com/fr/doc_categories.html</loc>
+              <priority>0.8</priority>
+<xhtml:link rel="alternate" hreflang="en" href="http://ouistee.com/en/doc_categories.html" />
+<xhtml:link rel="alternate" hreflang="fr" href="http://ouistee.com/fr/doc_categories.html" />
+</url>
+<url>
+              <loc>http://ouistee.com/en/doc_browse.html</loc>
+              <priority>0.8</priority>
+<xhtml:link rel="alternate" hreflang="en" href="http://ouistee.com/en/doc_browse.html" />
+<xhtml:link rel="alternate" hreflang="fr" href="http://ouistee.com/fr/doc_browse.html" />
+</url>
+<url>
+              <loc>http://ouistee.com/fr/doc_browse.html</loc>
+              <priority>0.8</priority>
+<xhtml:link rel="alternate" hreflang="en" href="http://ouistee.com/en/doc_browse.html" />
+<xhtml:link rel="alternate" hreflang="fr" href="http://ouistee.com/fr/doc_browse.html" />
+</url>
+<url>
+              <loc>http://ouistee.com/en/doc_archive.html</loc>
+              <priority>0.8</priority>
+<xhtml:link rel="alternate" hreflang="en" href="http://ouistee.com/en/doc_archive.html" />
+<xhtml:link rel="alternate" hreflang="fr" href="http://ouistee.com/fr/doc_archive.html" />
+</url>
+<url>
+              <loc>http://ouistee.com/fr/doc_archive.html</loc>
+              <priority>0.8</priority>
+<xhtml:link rel="alternate" hreflang="en" href="http://ouistee.com/en/doc_archive.html" />
+<xhtml:link rel="alternate" hreflang="fr" href="http://ouistee.com/fr/doc_archive.html" />
+</url>
+<url>
+              <loc>http://ouistee.com/en/Doc.html</loc>
+              <priority>0.8</priority>
+<xhtml:link rel="alternate" hreflang="en" href="http://ouistee.com/en/Doc.html" />
+<xhtml:link rel="alternate" hreflang="fr" href="http://ouistee.com/fr/Doc.html" />
+</url>
+<url>
+              <loc>http://ouistee.com/fr/Doc.html</loc>
+              <priority>0.8</priority>
+<xhtml:link rel="alternate" hreflang="en" href="http://ouistee.com/en/Doc.html" />
+<xhtml:link rel="alternate" hreflang="fr" href="http://ouistee.com/fr/Doc.html" />
+</url>
+</urlset>
